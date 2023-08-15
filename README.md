@@ -1,5 +1,5 @@
 # PortfolioProject
-Created Project on Covid Datasets useing Microsoft SQL.
+Created Project on Covid Datasets using Microsoft SQL.
 
 
 Also created Dashboard on some of the SQL queries:
